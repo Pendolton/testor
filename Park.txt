@@ -1,0 +1,17 @@
+Desktop:
+* Desktop Opera 52 (Windows 10)
+* Desktop Mozilla Firefox 59.0.2 (Windows 10)
+* Desktop Google Chrome 65 (Windows 10)
+* Desktop IE 11(Windows 10)
+* Desktop Safari 11.0.1 (Mac)
+* Desktop Microsoft Edge 41 (Windows 10)
+
+Mobile:
+* iPhone 5s (IOS 10) - Safari, Google Chrome
+* iPhone 6 (IOS 11.2.6) - Safari, Google Chrome
+* iPad 4 (IOS 10.0.1) - Safari, Google Chrome
+* iPad mini (IOS 9.3.5.) - Safari, Google Chrome
+* LG g4s (Android 6.0) - Google Chrome
+* Android Phone 1280x720 (Android 6.0) -  Google Chrome
+* Android tablet 1024x768 (Android 6.0)  -  Google Chrome
+* Acer Z220 - (Android 5.0) - Google Chrome
